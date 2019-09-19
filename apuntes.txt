@@ -5,7 +5,7 @@ npp
 git
 
 [] git
-$ git clone https://
+$ git clone https:// (Mays+Insert o URL)
 $ git add .
 $ git commit -a -m "Comentario"
 $ git push
@@ -18,4 +18,3 @@ protocol=https
 [Press Return]
 
 [] php
-2020@smr2A
