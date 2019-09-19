@@ -10,7 +10,12 @@ $ git add .
 $ git commit -a -m "Comentario"
 $ git push
 
+[] credenciales
+$ git config credential.helper
+$ git credential-manager erase
+host=github.com
+protocol=https
+[Press Return]
+
 [] php
-
-
 2020@smr2A
