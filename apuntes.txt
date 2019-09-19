@@ -1,0 +1,16 @@
+chrome
+opera
+xampp
+npp
+git
+
+[] git
+$ git clone https://
+$ git add .
+$ git commit -a -m "Comentario"
+$ git push
+
+[] php
+
+
+2020@smr2A
